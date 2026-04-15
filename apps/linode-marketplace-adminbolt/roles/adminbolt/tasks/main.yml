@@ -1,0 +1,12 @@
+---
+- name: Fetch adminbolt installer
+  ansible.builtin.get_url:
+    url: https://raw.githubusercontent.com/AdminBolt/Installer/main/install.sh
+    dest: /root/adminbolt-install.sh
+    mode: '0755'
+    force: false
+
+- name: Run the adminbolt installer
+  ansible.builtin.command: /root/adminbolt-install.sh
+  args:
+    creates: /usr/local/bolt/web
