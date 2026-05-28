@@ -1,0 +1,12 @@
+Adminbolt brand colors (for Akamai Marketplace gradient hero)
+=============================================================
+
+Brand Color 1 (left side of gradient): #F4A23C
+  Warm orange taken from the Adminbolt lightning bolt mark.
+
+Brand Color 2 (right side of gradient): #1A1A1A
+  Near-black, matches the Adminbolt website background.
+
+Notes:
+- The gradient goes left -> right (Color 1 -> Color 2).
+- If Color 2 is left empty, Akamai substitutes black, which is acceptable.

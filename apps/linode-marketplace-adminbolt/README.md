@@ -83,3 +83,11 @@ Replace `stackscript_id: 0` with the assigned marketplace StackScript ID once pu
 - [adminbolt installer source](https://github.com/AdminBolt/Installer)
 - [Create Linode via API](https://www.linode.com/docs/api/linode-instances/#linode-create)
 - [Stackscript reference](https://www.linode.com/docs/guides/writing-scripts-for-use-with-linode-stackscripts-a-tutorial/#user-defined-fields-udfs)
+
+## Support
+
+For help with this Marketplace app or with Adminbolt itself:
+
+- Website: <https://adminbolt.com/>
+- Documentation: <https://docs.adminbolt.com/>
+- Billing and account: <https://billing.adminbolt.com/>

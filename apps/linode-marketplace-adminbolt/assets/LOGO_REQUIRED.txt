@@ -1,0 +1,14 @@
+Adminbolt logo - required formats
+=================================
+
+Akamai requires vector logo files of the Adminbolt app, in both
+white and full-color variants. Accepted formats: SVG, EPS, or AI.
+
+Please obtain from the Adminbolt brand team and place here as:
+
+  assets/adminbolt-logo-color.svg
+  assets/adminbolt-logo-white.svg
+
+The PNG at https://adminbolt.com/img/logo.png is the current public
+mark but is rasterized and not acceptable for the Marketplace
+submission as-is.
